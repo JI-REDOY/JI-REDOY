@@ -97,10 +97,10 @@ alt="Typing introduction"
 <div align="center">
 
 <a href="https://github.com/JI-REDOY/career-connect-ai">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JI-REDOY&repo=career-connect-ai&theme=transparent&hide_border=false&title_color=2563EB&icon_color=06B6D4" alt="Creative Career AI repository" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JI-REDOY&repo=career-connect-ai&theme=transparent&hide_border=false&title_color=2563EB&icon_color=06B6D4&cache_seconds=1800" alt="Creative Career AI repository" />
 </a>
 <a href="https://github.com/JI-REDOY/nihongobd">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JI-REDOY&repo=nihongobd&theme=transparent&hide_border=false&title_color=2563EB&icon_color=06B6D4" alt="NihongoBD repository" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=JI-REDOY&repo=nihongobd&theme=transparent&hide_border=false&title_color=2563EB&icon_color=06B6D4&cache_seconds=1800" alt="NihongoBD repository" />
 </a>
 
 </div>
